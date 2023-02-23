@@ -8,7 +8,7 @@
 
 ------
 
-This is the repository of **iPACK** for the paper "Jinyang Liu, Shilin He, Zhuangbin Chen, Liqun Li, Yu Kang, Xu Zhang, Pinjia He,Hongyu Zhang, Qingwei Lin, Zhangwei Xu, Saravan Rajmohan, Dongmei Zhang, Michael R. Lyu. [Incident-aware Duplicate Ticket Aggregation for Cloud Systems]()" accepted by ICSE 2023.
+This is the repository of **iPACK** for the paper "Jinyang Liu, Shilin He, Zhuangbin Chen, Liqun Li, Yu Kang, Xu Zhang, Pinjia He,Hongyu Zhang, Qingwei Lin, Zhangwei Xu, Saravan Rajmohan, Dongmei Zhang, Michael R. Lyu. [Incident-aware Duplicate Ticket Aggregation for Cloud Systems](https://arxiv.org/pdf/2302.09520.pdf)" accepted by ICSE 2023.
 
 Our work targets more efficient customer ticket management in large-scale cloud systems. To achieve this goal, we propose to fuse customer-side data (i.e., tickets) and cloud runtime data (i.e., alerts) to aggregate duplicate tickets comprehensively and precisely.
 
